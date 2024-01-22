@@ -32,7 +32,8 @@ This project leverages the capabilities of Streamlit to create a chatbot that in
 
 3. Ask questions and get the answers
 
-
+## Screenshot
+![2024-01-22 6-54-55 PM](https://github.com/AhmedElsaidy1995/chat_pdf/assets/45700852/95edb42a-c669-4531-be01-fec4898a19c7)
 
    
 
