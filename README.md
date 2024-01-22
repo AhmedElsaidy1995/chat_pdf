@@ -10,8 +10,8 @@ This project leverages the capabilities of Streamlit to create a chatbot that in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-chatbot.git
-   cd pdf-chatbot
+   git clone https://github.com/AhmedElsaidy1995/chat_pdf.git
+   cd chat_pdf
    ```
 
 2. Install dependencies:
